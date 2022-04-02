@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RappiTest</string>
+    <string name="movie_not_found">No movie found</string>
+    <string name="name">Name: </string>
+    <string name="rate">Rate: </string>
+    <string name="over_2000">Over 2000</string>
+    <string name="favorite">Favorite</string>
+    <string name="All">All</string>
+    <string name="search">Search</string>
+</resources>
